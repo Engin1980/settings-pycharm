@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="186-188-3-255,,,255-255-0-255,,,70-84-96-255,,,36-40-49-255,,,0-0-112-255,,,0-0-55-255,,,173-217-199-255,,,61-61-0-255,,,2-15-61-255,,,255-163-0-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.729078" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="IJ_BASE_PACKAGE" value="eng.tetla" />
+    <property name="INSPECTION_FILTER_HISTORY" value="deprec&#10;boole" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SearchEveryWhereHistory" value="{" />
+    <property name="SettingsSearchHistory" value="boolean&#10;inspe" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="export.settings.path" value="r:\defaltDark.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/IdeaProjects/E-Xml-Serialization&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/_eSystem/eng.eSystem.xmlSerialization&#10;R:/RecognEyes.jar&#10;C:/Users/Marek Vajgl/.IdeaIC2018.3/config&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/J-ATC-Simulator&#10;R:/ImageFiles (Idea)/ImageFiles&#10;R:/sumfile/SumFile&#10;R:/StudentFiles/StudentFiles/StudentFiles&#10;R:/StudentFiles/StudentFiles/StudentFiles/src&#10;R:/SumFile/SumFile/src&#10;R:/Stepping (idea)/Stepping&#10;R:/freetts-1.2.2-bin/freetts-1.2/lib&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/SpeakDemo&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML/out/artifacts/newXml&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML 2/out&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML 2&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML/out/production/NewXML/eng/eSystem/newXmlSerialization&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML/src/eng/eSystem/newXmlSerialization&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/NewXML/test&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/_eSystem/eng.eSystem/out/artifacts&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/_eSystem/eng.eSystem.xmlSerialization/test&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/_eSystem/eng.eSystem&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/_eSystem/eXmlSerialization&#10;R:/defaltDark.jar&#10;R:/DarkPastels.jar&#10;R:/&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/eSystem/eng.eSystem&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/J-ATC-Simulator/_Libs/start.bat&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/J-ATC-Simulator/_SettingFiles&#10;C:/Users/Marek Vajgl/Documents/IdeaProjects/J-ATC-Simulator/_Sounds" />
+    <property name="file.gist.reindex.count" value="4472" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="lastTip" value="98" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="selected.color.option.type" value="ABSTRACT_CLASS_NAME_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Arrangement" />
+  </component>
+</application>

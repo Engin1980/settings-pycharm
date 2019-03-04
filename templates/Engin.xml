@@ -1,0 +1,9 @@
+<templateSet group="Engin">
+  <template name="ane" value="if ($argument$ == null) {&#10;    throw new IllegalArgumentException(&quot;Value of {$argument$} cannot not be null.&quot;);&#10;}&#10;$end$" description="Chekc for argument not null" toReformat="false" toShortenFQNames="true">
+    <variable name="argument" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

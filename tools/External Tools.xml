@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Copy jar libs" description="Copies jar libraries for this project from their development placement." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Marek Vajgl\Documents\IdeaProjects\JAtcSimSolution\_Libs\updateJarLibs.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Marek Vajgl/Documents/IdeaProjects/JAtcSimSolution/_Libs" />
+    </exec>
+  </tool>
+</toolSet>
