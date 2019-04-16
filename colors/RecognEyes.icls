@@ -354,6 +354,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
